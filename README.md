@@ -10,4 +10,4 @@ An E-commerce site built with HTML, CSS, JS, Node.js, Express, SQL, and PostgreS
 
 ![Login](https://media.licdn.com/dms/image/v2/D5622AQHU2jBI16-1nA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719408924415?e=1726704000&v=beta&t=oylexZKEtjoiGK-xrFNsJtr3x9vU-3feQNLP84GV4XU)
 
-![Items Page](https://media.licdn.com/dms/image/v2/D5622AQFfIiKZhwhLqw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719408928099?e=1726704000&v=beta&t=vJ5Dz8ssMmTYCf2JSP7​⬤
+![Items Page](https://media.licdn.com/dms/image/v2/D5622AQFfIiKZhwhLqw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719408928099?e=1726704000&v=beta&t=vJ5Dz8ssMmTYCf2JSP7o8zf5fr_H4uZOUaQpqJO0hGw)
