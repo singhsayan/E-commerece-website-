@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Cart</h1>
+    <h3>Your cart has these many items</h3>
+    <ul>
+        <% cartItems.forEach(item => { %>
+            <li>
+                
+                <%= item.product_id %>   <%= item.quantity %> 
+            </li>
+        <% }) %>
+    </ul>
+    <h2>Total: $<%= total %></h2>
+</body>
+</html>
